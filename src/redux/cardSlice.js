@@ -25,26 +25,26 @@ const cardSlice = createSlice({
                 matched: false,
                 opened: false,
             },
-            // {
-            //     name: "grunt",
-            //     matched: false,
-            //     opened: false,
-            // },
-            // {
-            //     name: "phantomjs",
-            //     matched: false,
-            //     opened: false,
-            // },
-            // {
-            //     name: "ember",
-            //     matched: false,
-            //     opened: false,
-            // },
-            // {
-            //     name: "babel",
-            //     matched: false,
-            //     opened: false,
-            // },
+            {
+                name: "grunt",
+                matched: false,
+                opened: false,
+            },
+            {
+                name: "phantomjs",
+                matched: false,
+                opened: false,
+            },
+            {
+                name: "ember",
+                matched: false,
+                opened: false,
+            },
+            {
+                name: "babel",
+                matched: false,
+                opened: false,
+            },
             // {
             //     name: "ionic",
             //     matched: false,
